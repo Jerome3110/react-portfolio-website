@@ -36,7 +36,7 @@ const About = () => {
             Hi, I'm Jerome. Nice to meet you.
             Since learning to code several years ago, I have consulted with 
             small businesses to help them grow and develop their passions.
-            By collaboration with business owners we gain a better understanding
+            By collaborating with business owners we gain a better understanding
             what the user of the website needs.
             I'm quietly confident, naturally curious and always looking for new 
             ways to improve my skills. 
